@@ -2,12 +2,38 @@ html {
   position: relative;
   min-height: 100%;
 }
-body {
-  /* Margin bottom by footer height */
-  margin-bottom: 40px;
-  /* Padding top for header */
+
+/* padding for header and footer */
+body{
   padding-top: 85px;
+  padding-bottom: 40px;
 }
+
+.btn:focus, .btn:active {
+  outline: 0 !important;
+}
+
+.logo {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  height: 70px;
+  /*z-index: 99999;*/
+}
+
+.navbar-PRC {
+  background-color: #f41c1c;
+  border-bottom: 2px solid black;
+  height: 50px;
+}
+
+.navbar-brand-PRC {
+  color: black;
+  font-size: 20px;
+  font-weight: bolder;
+  margin-left: 100px;
+}
+
 #footer {
   position: absolute;
   bottom: 0;
@@ -19,17 +45,6 @@ body {
   text-align: center;
   padding-top: 6px;
 }
-.navbar-PRC {
-  background-color: #f41c1c;
-  border-bottom: 2px solid black;
-  height: 50px;
-}
-.navbar-brand-PRC {
-  color: black;
-  font-size: 20px;
-  font-weight: bolder;
-  margin-left: 100px;
-}
 
 .motto-white {
   color: #fff;
@@ -37,21 +52,27 @@ body {
   font-size: 120%;
   margin-right: 6px;
 }
+
 .motto-red {
   color: #ff1e19;
   font-weight: bolder;
   font-size: 18px;
 }
+
 .col-motto {
   background-color: black;
 }
+
 .container-motto {
   background-color: black;
 }
-.logo {
+
+.thumbnail-map{
+  margin:6px;
+  height:370px;
+}
+.btn-downloadPdf{
   position: absolute;
-  top: 12px;
-  left: 12px;
-  height: 70px;
-  /*z-index: 99999;*/
+  bottom: 13px;
+  right: 13px;
 }

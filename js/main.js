@@ -11,15 +11,16 @@ function getmapList() {
       console.log("Success!");
       mapData = data;
       buildThumbnails();
-
     },
     error: function(e) {
       console.log(e);
     }
   });
 }
+
 function buildThumbnails(){
   $.each(mapData, function(index, thisMap ){
+
     var thisHtml= "<div class='thumbnail col-sm-3 thumbnail-map'><img src='map/";
     thisHtml +=thisMap.filename;
     thisHtml += "_thumb.jpg'> <div class='caption'><h3>";

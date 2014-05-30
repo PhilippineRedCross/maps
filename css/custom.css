@@ -9,6 +9,11 @@ body{
   padding-bottom: 40px;
 }
 
+
+#gallery{
+  padding-bottom: 50px;
+}
+
 .btn:focus, .btn:active {
   outline: 0 !important;
 }

@@ -1,0 +1,15 @@
+05/30/2014  03:14 PM    <DIR>          .
+05/30/2014  03:14 PM    <DIR>          ..
+05/30/2014  03:14 PM                 0 names.txt
+05/30/2014  03:10 PM           641,405 Partners Assignment_Cebu_2014-05-23.jpg
+05/30/2014  03:10 PM            40,957 Partners Assignment_Cebu_2014-05-23_thumb.jpg
+05/30/2014  03:11 PM           693,919 Partners Assignment_Leyte2014-05-23.jpg
+05/30/2014  03:11 PM            49,693 Partners Assignment_Leyte2014-05-23_thumb.jpg
+05/30/2014  02:52 PM           510,140 PartnersAssignment_2014-04-14.jpg
+05/14/2014  02:25 PM            65,646 PartnersAssignment_2014-04-14_thumb.jpg
+05/30/2014  02:38 PM         1,914,276 PartnersAssignment_AntiqueAklan2014-05-30.jpg
+05/30/2014  02:44 PM            45,433 PartnersAssignment_AntiqueAklan2014-05-30_thumb.jpg
+05/30/2014  03:08 PM           896,299 PartnersAssignment_CapizIloilo2014-05-23.jpg
+05/30/2014  03:08 PM            55,164 PartnersAssignment_CapizIloilo2014-05-23_thumb.jpg
+05/30/2014  02:52 PM           397,109 YolandaPath.jpg
+05/14/2014  02:19 PM            62,346 YolandaPath_thumb.jpg

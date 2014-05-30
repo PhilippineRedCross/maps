@@ -9,19 +9,16 @@ body{
   padding-bottom: 40px;
 }
 
-<<<<<<< HEAD
+
 #gallery{
   padding-bottom: 50px;
 }
 
-#footer {
-=======
 .btn:focus, .btn:active {
   outline: 0 !important;
 }
 
 .logo {
->>>>>>> 77e4d4db4b8e424ab6cba1746369e46e536c392c
   position: absolute;
   top: 12px;
   left: 12px;

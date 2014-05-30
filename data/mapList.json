@@ -1,14 +1,50 @@
 [
   {
-    "filename":"YolandaPath",
-    "label":"Typhoon Yolanda Path",
-    "description":"Provinces hit by typhoon Yolanda",
-    "date":"20-Nov-13"
+    "filename":"PartnersAssignment_AntiqueAklan2014-05-30",
+    "label":"Partners Assignment",
+    "description":"Antique & Aklan (A3 Size Paper)",
+    "date":"05/23/2014"
+  },
+  {
+    "filename":"PartnersAssignment_CapizIloilo2014-05-23",
+    "label":"Partners Assignment",
+    "description":"Capiz & Iloilo (A3 Size Paper)",
+    "date":"05/23/2014"
+  },
+  {
+    "filename":"Partners Assignment_Cebu_2014-05-23",
+    "label":"Partners Assignment",
+    "description":"Cebu (A3 Size Paper)",
+    "date":"05/23/2014"
+  },
+  {
+    "filename":"Partners Assignment_Leyte2014-05-23",
+    "label":"Partners Assignment",
+    "description":"Leyte (A3 Size Paper)",
+    "date":"05/23/2014"
+  },
+  {
+    "filename":"PartnersAssignment_CapizIloilo2014-05-23",
+    "label":"Partners Assignment",
+    "description":"Capiz & Iloilo (A3 Size Paper)",
+    "date":"05/23/2014"
+  },
+  {
+    "filename":"PartnersAssignment_AntiqueAklan2014-05-30",
+    "label":"Partners Assignment",
+    "description":"Antique & Aklan (A3 Size Paper)",
+    "date":"05/23/2014"
   },
   {
     "filename":"PartnersAssignment_2014-04-14",
     "label":"Partners Assignment",
     "description":"Municipality assigned to partner national society",
-    "date":"14-Apr-14"
+    "date":"04/14/2014"
+  },
+  {
+    "filename":"YolandaPath",
+    "label":"Typhoon Yolanda Path",
+    "description":"Provinces hit by typhoon Yolanda",
+    "date":"11/20/2013"
   }
 ]

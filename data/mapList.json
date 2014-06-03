@@ -1,45 +1,75 @@
 [
   {
+    "filename":"ShelterSectorProgress2014-05-30",
+    "label":"Shelter Sector",
+    "description":"Progress of Shelter Recovery",
+    "date":"5/30/2014"
+  },
+  {
     "filename":"PartnersAssignment_AntiqueAklan2014-05-30",
     "label":"Partners Assignment",
     "description":"Antique & Aklan (A3 Size Paper)",
-    "date":"05/23/2014"
+    "date":"5/30/2014"
   },
   {
-    "filename":"PartnersAssignment_CapizIloilo2014-05-23",
+    "filename":"PartnersAssignment_Palawan2014-05-23",
     "label":"Partners Assignment",
-    "description":"Capiz & Iloilo (A3 Size Paper)",
-    "date":"05/23/2014"
+    "description":"Palawan (A3 Size Paper)",
+    "date":"5/23/2014"
   },
   {
-    "filename":"Partners Assignment_Cebu_2014-05-23",
+    "filename":"Partners Assignment_Cebu2014-05-23",
     "label":"Partners Assignment",
     "description":"Cebu (A3 Size Paper)",
-    "date":"05/23/2014"
+    "date":"5/23/2014"
+  },
+  {
+    "filename":"PartnersAssignment_NegrosOccidental2014-05-23",
+    "label":"Partners Assignment",
+    "description":"Negors Occidental (A3 Size Paper)",
+    "date":"5/23/2014"
   },
   {
     "filename":"Partners Assignment_Leyte2014-05-23",
     "label":"Partners Assignment",
     "description":"Leyte (A3 Size Paper)",
-    "date":"05/23/2014"
+    "date":"5/23/2014"
   },
   {
     "filename":"PartnersAssignment_CapizIloilo2014-05-23",
     "label":"Partners Assignment",
     "description":"Capiz & Iloilo (A3 Size Paper)",
-    "date":"05/23/2014"
+    "date":"5/23/2014"
   },
   {
-    "filename":"PartnersAssignment_AntiqueAklan2014-05-30",
+    "filename":"Partners Assignment_Samar2014-05-23",
     "label":"Partners Assignment",
-    "description":"Antique & Aklan (A3 Size Paper)",
-    "date":"05/23/2014"
+    "description":"Samar (A3 Size Paper)",
+    "date":"5/23/2014"
+  },
+  {
+    "filename":"Partners Assignment2014-05-22",
+    "label":"Partners Assignment",
+    "description":"Municipality Assignment of Partner National Society",
+    "date":"5/22/2014"
+  },
+  {
+    "filename":"LivelihoodSector2014-04-15",
+    "label":"Livelihood Sector",
+    "description":"Commitment of Partners for Livelihood Sector",
+    "date":"4/15/2014"
   },
   {
     "filename":"PartnersAssignment_2014-04-14",
     "label":"Partners Assignment",
-    "description":"Municipality assigned to partner national society",
-    "date":"04/14/2014"
+    "description":"Municipality Assignment of Partner National Society",
+    "date":"4/14/2014"
+  },
+  {
+    "filename":"ShelterSector2014-04-07",
+    "label":"Shelter Sector",
+    "description":"Commitment of Partners for Shelter Sector",
+    "date":"4/7/2014"
   },
   {
     "filename":"YolandaPath",

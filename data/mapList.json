@@ -82,5 +82,29 @@
     "label":"PRC 3W for Haima",
     "description":"PRC Activities in Typhoon Haima",
     "date":"12/09/2016"
+  },
+  {
+    "filename":"PHL_Haima_3W_Cagayan_20161209",
+    "label":"Province Activities in Haima",
+    "description":"PRC Activities in Cagayan Province in Typhoon Haima",
+    "date":"12/09/2016"
+  },
+  {
+    "filename":"PHL_Haima_3W_Isabela_20161209",
+    "label":"Province Activities in Haima",
+    "description":"PRC Activities in Isabela Province in Typhoon Haima",
+    "date":"12/09/2016"
+  },
+  {
+    "filename":"PHL_Haima_3W_Kalinga_20161209_v2",
+    "label":"Province Activities in Haima",
+    "description":"PRC Activities in Kalinga Province in Typhoon Haima",
+    "date":"12/09/2016"
+  },
+  {
+    "filename":"PHL_Haima_3W_Apayao_20161209",
+    "label":"Province Activities in Haima",
+    "description":"PRC Activities in Apayao Province in Typhoon Haima",
+    "date":"12/09/2016"
   }
 ]

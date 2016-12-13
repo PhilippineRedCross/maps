@@ -76,5 +76,10 @@
     "label":"Typhoon Yolanda Path",
     "description":"Provinces hit by typhoon Yolanda",
     "date":"11/20/2013"
-  }
+  },
+  {
+    "filename":"PHL_Haima_3W_20161209_v2",
+    "label":"PRC 3W for Haima",
+    "description":"PRC Activities in Typhoon Haima",
+    "date":"12/09/2016"
 ]

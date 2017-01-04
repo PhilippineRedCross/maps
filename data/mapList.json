@@ -106,5 +106,11 @@
     "label":"Province Activities in Haima",
     "description":"PRC Activities in Apayao Province in Typhoon Haima",
     "date":"12/09/2016"
+  },
+  {
+    "filename":"PHL_Haima_3W_20161230",
+    "label":"PRC 3W for Haima",
+    "description":"PRC Activities in Typhoon Haima",
+    "date":"12/30/2016"    
   }
 ]

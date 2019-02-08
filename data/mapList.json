@@ -112,5 +112,10 @@
     "label":"PRC 3W for Haima",
     "description":"PRC Activities in Typhoon Haima",
     "date":"12/30/2016"    
-  }
+  },
+  {
+    "filename":"PHL_Usman_3W_20190131",
+    "label":"PRC 3W for TD Usman",
+    "description":"PRC Activities in Tropical Depression Usman",
+    "date":"01/31/2019"
 ]

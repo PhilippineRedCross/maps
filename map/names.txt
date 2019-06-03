@@ -1,15 +1,26 @@
-05/30/2014  03:14 PM    <DIR>          .
-05/30/2014  03:14 PM    <DIR>          ..
-05/30/2014  03:14 PM                 0 names.txt
-05/30/2014  03:10 PM           641,405 Partners Assignment_Cebu_2014-05-23.jpg
-05/30/2014  03:10 PM            40,957 Partners Assignment_Cebu_2014-05-23_thumb.jpg
-05/30/2014  03:11 PM           693,919 Partners Assignment_Leyte2014-05-23.jpg
-05/30/2014  03:11 PM            49,693 Partners Assignment_Leyte2014-05-23_thumb.jpg
-05/30/2014  02:52 PM           510,140 PartnersAssignment_2014-04-14.jpg
-05/14/2014  02:25 PM            65,646 PartnersAssignment_2014-04-14_thumb.jpg
-05/30/2014  02:38 PM         1,914,276 PartnersAssignment_AntiqueAklan2014-05-30.jpg
-05/30/2014  02:44 PM            45,433 PartnersAssignment_AntiqueAklan2014-05-30_thumb.jpg
-05/30/2014  03:08 PM           896,299 PartnersAssignment_CapizIloilo2014-05-23.jpg
-05/30/2014  03:08 PM            55,164 PartnersAssignment_CapizIloilo2014-05-23_thumb.jpg
-05/30/2014  02:52 PM           397,109 YolandaPath.jpg
-05/14/2014  02:19 PM            62,346 YolandaPath_thumb.jpg
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+5/30/2014	2:52	PM	"397,109"	YolandaPath
+5/30/2014	2:52	PM	"510,140"	PartnersAssignment_2014-04-14
+5/30/2014	5:00	PM	"584,828"	PartnersAssignment_Palawan2014-05-23
+5/30/2014	3:10	PM	"641,405"	Partners Assignment_Cebu2014-05-23
+5/30/2014	4:59	PM	"641,976"	PartnersAssignment_NegrosOccidental2014-05-23
+5/30/2014	3:11	PM	"693,919"	Partners Assignment_Leyte2014-05-23
+5/30/2014	3:08	PM	"896,299"	PartnersAssignment_CapizIloilo2014-05-23
+5/30/2014	5:02	PM	"996,782"	Partners Assignment_Samar2014-05-23
+5/30/2014	5:38	PM	"1,028,749"	LivelihoodSector2014-04-15
+6/2/2014	9:15	AM	"1,137,903"	ShelterSector2014-04-07
+5/30/2014	5:33	PM	"1,191,869"	ShelterSectorProgress2014-05-30
+6/3/2014	10:19	AM	"1,509,566"	Partners Assignment2014-05-22
+5/30/2014	2:38	PM	"1,914,276"	PartnersAssignment_AntiqueAklan2014-05-30
